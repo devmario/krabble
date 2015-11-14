@@ -12,8 +12,8 @@
 
 ## Design TODO
 - [x] main card page
-- [ ] card element page
-- [ ] magazine list page
+- [x] card element page
+- [x] magazine list page
 - [ ] magazine element page
 - [ ] collect page
 - [ ] menu page
